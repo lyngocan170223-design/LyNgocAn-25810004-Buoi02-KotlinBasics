@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.navigation:navigation-common:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0d35c1b49dc476a1098e71bb106a6c09\transformed\navigation-common-2.7.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\43e963bbef97a4dd1a7f3b45cb3a0556\transformed\navigation-runtime-2.7.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\750ab40e7bd89d86eb27474af963ba0c\transformed\navigation-common-ktx-2.7.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\bce51c8d2f7855fc2f6b1490b02a4ac0\transformed\navigation-runtime-ktx-2.7.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\4f07d19454f4a19d148dc26190c5aa26\transformed\navigation-compose-2.7.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\47581e55eca7a5424bf0da5b9e125852\transformed\material3-1.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cd156d193524c8e4cc8156722dbf4fd4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9ed6b95ed088ef6561396c3321d3b1be\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\1d5bad24701eff9ddc393b0f68259f40\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\062f31793148c84f796a05f2e56f2737\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\3f5bb96ae14197d975c17af4ba9300f6\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\1f5e23d9a35edffa0700ac013225923c\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\c4fd81e2d0561f201536363d107dc9b0\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\a93a580576656abb35a60e12d175492f\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\035c32693234d3abc6a3268dcb4ba94b\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\eb90245e7176168396d32ac17165967a\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9a8ca965b5982a7a6fbc279c1cd06c64\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\aa745a80f2444133f72dd114c7a491a5\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cc5e215b22c607dbf8979656e00a0e9a\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\4389b6bcbc24a23909c73486e0aca150\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\2f0775489023f475a65381039193b432\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\995ffd695b0b7335d64e01672f392c82\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\96035e95a01bd809ada086b8c39a7971\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\b3e408265e3f954234740982a826c6af\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\bfd46ab348512e7d76aa62009e9e5e70\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\7777cd85ea0ff1c806e6879e9e13681e\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\ac4aae4e3a5ab4c45004916d86cd87a1\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\182dcc7ced6edd568f3a7192eddfa57c\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9812448d59a7f011be6ec17f6d63553d\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\df2e0a027a745ce222ff1079b9cd2af9\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\a9d525f47092b822f8bfd97e6c3a605e\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\859a2a0b3c2065f679c8b0ae386f52bc\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\7b087412614e75b7db4701cae41efa31\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\13e51ba6a755b71bd65814e2b17e0f2c\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\db080c48e51d2126cde86c703fc48c8f\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e7f006dde43592cbe2070272e4b9ed1e\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\d1b211a7bdfb39e0720ae74c2488a719\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\3eea6494167b4eab93f95db1dd825664\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\6fedb406e2d5303d6903e99e3a9d9fbc\transformed\runtime-livedata-1.5.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\39ab6879adcf0668fecba0363a490a03\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\dda96e1f9597007db26fec9f73ea7e40\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\fe3e1d339b892d3f82479cb65a11b94a\transformed\activity-compose-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cd1887f9e0cef493453f02f082e68082\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\401152ca8016efcd68fe1abc96518cd8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0482919278486d3ff8cb78c0a22d70f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\be0dbb943dcdb669808f0b3af9cf8dff\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5aa38340c5319955f3131d11e49ccce4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:20:5-36:19
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:20:5-36:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0482919278486d3ff8cb78c0a22d70f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0482919278486d3ff8cb78c0a22d70f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:23:9-54
+	tools:targetApi
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:26:9-29
+	android:icon
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:25:9-45
+activity#com.example.cupcake.MainActivity
+ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-common:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0d35c1b49dc476a1098e71bb106a6c09\transformed\navigation-common-2.7.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0d35c1b49dc476a1098e71bb106a6c09\transformed\navigation-common-2.7.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\43e963bbef97a4dd1a7f3b45cb3a0556\transformed\navigation-runtime-2.7.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\43e963bbef97a4dd1a7f3b45cb3a0556\transformed\navigation-runtime-2.7.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\750ab40e7bd89d86eb27474af963ba0c\transformed\navigation-common-ktx-2.7.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\750ab40e7bd89d86eb27474af963ba0c\transformed\navigation-common-ktx-2.7.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\bce51c8d2f7855fc2f6b1490b02a4ac0\transformed\navigation-runtime-ktx-2.7.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\bce51c8d2f7855fc2f6b1490b02a4ac0\transformed\navigation-runtime-ktx-2.7.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\4f07d19454f4a19d148dc26190c5aa26\transformed\navigation-compose-2.7.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\4f07d19454f4a19d148dc26190c5aa26\transformed\navigation-compose-2.7.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\47581e55eca7a5424bf0da5b9e125852\transformed\material3-1.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\47581e55eca7a5424bf0da5b9e125852\transformed\material3-1.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cd156d193524c8e4cc8156722dbf4fd4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cd156d193524c8e4cc8156722dbf4fd4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9ed6b95ed088ef6561396c3321d3b1be\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9ed6b95ed088ef6561396c3321d3b1be\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\1d5bad24701eff9ddc393b0f68259f40\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\1d5bad24701eff9ddc393b0f68259f40\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\062f31793148c84f796a05f2e56f2737\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\062f31793148c84f796a05f2e56f2737\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\3f5bb96ae14197d975c17af4ba9300f6\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\3f5bb96ae14197d975c17af4ba9300f6\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\1f5e23d9a35edffa0700ac013225923c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\1f5e23d9a35edffa0700ac013225923c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\c4fd81e2d0561f201536363d107dc9b0\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\c4fd81e2d0561f201536363d107dc9b0\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\a93a580576656abb35a60e12d175492f\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\a93a580576656abb35a60e12d175492f\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\035c32693234d3abc6a3268dcb4ba94b\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\035c32693234d3abc6a3268dcb4ba94b\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\eb90245e7176168396d32ac17165967a\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\eb90245e7176168396d32ac17165967a\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9a8ca965b5982a7a6fbc279c1cd06c64\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9a8ca965b5982a7a6fbc279c1cd06c64\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\aa745a80f2444133f72dd114c7a491a5\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\aa745a80f2444133f72dd114c7a491a5\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cc5e215b22c607dbf8979656e00a0e9a\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cc5e215b22c607dbf8979656e00a0e9a\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\4389b6bcbc24a23909c73486e0aca150\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\4389b6bcbc24a23909c73486e0aca150\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\2f0775489023f475a65381039193b432\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\2f0775489023f475a65381039193b432\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\995ffd695b0b7335d64e01672f392c82\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\995ffd695b0b7335d64e01672f392c82\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\96035e95a01bd809ada086b8c39a7971\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\96035e95a01bd809ada086b8c39a7971\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\b3e408265e3f954234740982a826c6af\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\b3e408265e3f954234740982a826c6af\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\bfd46ab348512e7d76aa62009e9e5e70\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\bfd46ab348512e7d76aa62009e9e5e70\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\7777cd85ea0ff1c806e6879e9e13681e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\7777cd85ea0ff1c806e6879e9e13681e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\ac4aae4e3a5ab4c45004916d86cd87a1\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\ac4aae4e3a5ab4c45004916d86cd87a1\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\182dcc7ced6edd568f3a7192eddfa57c\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\182dcc7ced6edd568f3a7192eddfa57c\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9812448d59a7f011be6ec17f6d63553d\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\9812448d59a7f011be6ec17f6d63553d\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\df2e0a027a745ce222ff1079b9cd2af9\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\df2e0a027a745ce222ff1079b9cd2af9\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\a9d525f47092b822f8bfd97e6c3a605e\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\a9d525f47092b822f8bfd97e6c3a605e\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\859a2a0b3c2065f679c8b0ae386f52bc\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\859a2a0b3c2065f679c8b0ae386f52bc\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\7b087412614e75b7db4701cae41efa31\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\7b087412614e75b7db4701cae41efa31\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\13e51ba6a755b71bd65814e2b17e0f2c\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\13e51ba6a755b71bd65814e2b17e0f2c\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\db080c48e51d2126cde86c703fc48c8f\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\db080c48e51d2126cde86c703fc48c8f\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e7f006dde43592cbe2070272e4b9ed1e\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e7f006dde43592cbe2070272e4b9ed1e\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\d1b211a7bdfb39e0720ae74c2488a719\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\d1b211a7bdfb39e0720ae74c2488a719\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\3eea6494167b4eab93f95db1dd825664\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\3eea6494167b4eab93f95db1dd825664\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-livedata:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\6fedb406e2d5303d6903e99e3a9d9fbc\transformed\runtime-livedata-1.5.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-livedata:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\6fedb406e2d5303d6903e99e3a9d9fbc\transformed\runtime-livedata-1.5.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\39ab6879adcf0668fecba0363a490a03\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\39ab6879adcf0668fecba0363a490a03\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\dda96e1f9597007db26fec9f73ea7e40\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\dda96e1f9597007db26fec9f73ea7e40\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\fe3e1d339b892d3f82479cb65a11b94a\transformed\activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\fe3e1d339b892d3f82479cb65a11b94a\transformed\activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cd1887f9e0cef493453f02f082e68082\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\cd1887f9e0cef493453f02f082e68082\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\401152ca8016efcd68fe1abc96518cd8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\401152ca8016efcd68fe1abc96518cd8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0482919278486d3ff8cb78c0a22d70f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\0482919278486d3ff8cb78c0a22d70f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\be0dbb943dcdb669808f0b3af9cf8dff\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\be0dbb943dcdb669808f0b3af9cf8dff\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5aa38340c5319955f3131d11e49ccce4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5aa38340c5319955f3131d11e49ccce4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Buoi07\cupcake\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\e575a785dd00add1dd2068bd62653aba\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\f5a0d05268ab2f5edde35a2d2320ab15\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\26d209cd83d3d79dc88e7af45e26e59e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\19e50b0eaa0d75ae4dd1646d10b093a1\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.cupcake.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.cupcake.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5087234ee4b67c6128424d050199b135\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\5439ecbc695de64422df0346e3246ab5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\lyngo\.gradle\caches\9.6.0\transforms\8f0da66b41ccf9424ea3056a4d692009\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
